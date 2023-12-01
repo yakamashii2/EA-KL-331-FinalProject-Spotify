@@ -29,8 +29,12 @@
 				<li>Profile Image: <span id="imgUrl"></span></li>
 			</ul>
         </section>
+		</br></br></br></br></br></br></br></br></br></br></br></br></br></br><!--Break tags are for the wise-->
 		<div class="iframey_div">
-			<iframe id="iframey" title="Slides" height= "800px" width = "100%"  src="https://docs.google.com/presentation/d/19v-W-kC9vvA3fA2XpII6OgPTMIjI4lHhxe8HZqaZcXY"></iframe>
+			<!--
+			<iframe id="iframey" title="Slides" height= "800px" width = "99%"  src="https://docs.google.com/presentation/d/19v-W-kC9vvA3fA2XpII6OgPTMIjI4lHhxe8HZqaZcXY"></iframe>
+			-->
+			<iframe id="iframey" title="Slides" height= "40px" width = "99%"  src="https://docs.google.com/presentation/d/19v-W-kC9vvA3fA2XpII6OgPTMIjI4lHhxe8HZqaZcXY"></iframe>
 		</div>
 		<footer>
 		    <p class="footer">© All rights reserved to Kian Lynde and Edward Aldeen.</p>
