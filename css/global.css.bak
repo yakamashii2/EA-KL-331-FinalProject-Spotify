@@ -86,7 +86,10 @@ header nav .active{
 	/*grid-gap: 5px;*/
 }
 iframe{
-	border: solid 1px gray;	 
+	/*
+	border: solid 1px gray;
+	border-collapse: collapse;
+	*/	 
 	
 }
 

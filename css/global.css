@@ -27,7 +27,6 @@ Nav stuff
 */
 
 header {
-	/*position: fixed;*/
 	left: 0;
 	top: 0;
 	width: device-width;
@@ -36,24 +35,14 @@ header {
     align-items: center;
     background-color: darkgrey;
 	background-color: #191414;
-    /*margin-top: 30px;*/
-    /*margin-left: 17.7%;*/
-    /*margin-left: 1.8%;*/
 }
-header a {
-	/*border: solid 1px lightgrey;*/	
+header a {	
     text-decoration: none;
 	font-size: 150%;
-    /*color: #003314;*/
 }
 header li{
     display: inline-block;
     margin: 25px 25px 25px 25px;
-    /*margin-left: 15px;
-    margin-right: 20px;*/
-}
-header ul{
-    /*display: inline-block;*/
 }
 header nav{
     width: 100%;
@@ -99,10 +88,7 @@ iframe{
 
 /*footer css here*/
 footer{
-	/*background-color: #191414;*/
     margin: auto;
-	/*margin-top: 10px;*/
-    /*position: fixed;*/
     bottom: 0;
     left: 0;
     width: 100%;
@@ -116,15 +102,4 @@ footer{
 	margin: 20px 20px 20px 20px;
 	margin-left: 100px;
 	font-size: 120%;
-  /*display: inline-block;
-  justify-content: space-between;
-  align-items: center;
-  margin-left: 4%;
-  width: 60%;
-  font-size: 11px;
-  line-height: 22px;
-  max-width: 45%;
-  margin-left: 15%;
-  margin-right: 10%;*/
-  /*margin-left: 17.7%;*/
 }
